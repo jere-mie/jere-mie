@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😃 I love making things to make my life easier or things I can have fun wit
+- 😃 I love making things to make my life easier or things I can have fun with
 - 🏟️ I will be working as an IT Developer at Green Shield Canada from May-August 2021
 - 🔭 I’m currently working on a [full stack web app](https://github.com/jere-mie/domains-software) for the University of Windsor's Department of Biochemistry!
 - 🏫 Currently I'm the Vice President of the University of Windsor's [Computer Science Society](https://css.uwindsor.ca) (and hopefully President soon!)
