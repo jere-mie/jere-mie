@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😃 I love making things to make my life easier or things I can have fun with
-- 🏟️ I'm currently working as an IT Developer at Green Shield Canada from May-August 2021
-- 🔭 I’m currently working on a [full stack web app](https://github.com/jere-mie/domains-software) for the University of Windsor's Department of Biochemistry!
+- 🏟️ I'm currently working as a Software Developer Intern at Green Shield Canada from May-August 2021
+- 🔭 I’m currently working on a [full stack web app](https://github.com/jere-mie/sans-analysis) for the University of Windsor's Department of Biochemistry!
 - 🏫 Currently I'm the President of the University of Windsor's [Computer Science Society](https://css.uwindsor.ca)
 - 📫 How to reach me: jeremiejbornais@gmail.com
 - ⚡ Fun fact: I co-founded two hackathons! [WinHacks](https://winhacks.ca/) and [BorderHacks](https://www.borderhacks.com/)
