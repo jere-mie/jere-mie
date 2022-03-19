@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🏟️ I'm currently working as a Software Developer Intern at Assent Compliance Inc.
+- 🏟️ I'm currently working as a Software Developer Intern at Assent Inc.
 - 😃 I love making things to make my life easier or things I can have fun with
 - 🏟️ I worked as a Software Developer Intern at Green Shield Canada from May-August 2021
-- 🔭 I’m currently working on a [full stack web app](https://github.com/jere-mie/sans-analysis) for the University of Windsor's Department of Biochemistry!
+- 🔭 I'm also working as a Research Assistant for the University of Windsor's Department of Biochemistry, writing all kinds of Python!
 - 🏫 Currently I'm the President of the University of Windsor's [Computer Science Society](https://css.uwindsor.ca)
 - 📫 How to reach me: jeremiejbornais@gmail.com
 - ⚡ Fun fact: I co-founded two hackathons! [WinHacks](https://winhacks.ca/) and [BorderHacks](https://www.borderhacks.com/)
