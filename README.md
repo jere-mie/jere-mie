@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 😃 I love making things to make my life easier or things I can have fun with
-- 🛜 I'm currently working as a **Software Engineer** at _RIIS_!
-- 🏟️ I've worked as a **Software Developer** at _Publicis Sapient_, _Assent Inc_, and _Green Shield Canada_!
+- 🛜 I'm currently working as a **Software Developer** at _Assent Inc_!
+- 🏟️ I've worked as a **Software Developer** at _RIIS_, _Publicis Sapient_, _Assent Inc_, and _Green Shield Canada_!
 - 🔭 I've also worked as a **Research Software Developer** for the _Laboratory for Advanced Biomembrane Research_ at the University of Windsor
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
 - 📫 How to reach me: [jeremiejbornais@gmail.com](mailto:jeremiejbornais@gmail.com)
