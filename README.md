@@ -8,7 +8,7 @@
 - 📫 How to reach me: [jeremiejbornais@gmail.com](mailto:jeremiejbornais@gmail.com)
 - 🏫 I've served as the President of the University of Windsor's [Computer Science Society](https://css.uwindsor.ca)
 - ⚡ Fun fact: I co-founded two hackathons! [WinHacks](https://winhacks.ca/) and [BorderHacks](https://www.borderhacks.com/)
-- ✉️ Check out [my website](https://jeremie.bornais.ca)!  
+- ✉️ Check out [my blog](https://blog.bornais.ca)!  
 
 
 <!-- # Some Languages I've Used!
