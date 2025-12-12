@@ -5,7 +5,7 @@
 - 🏟️ I've worked as a **Software Developer** at _RIIS_, _Publicis Sapient_, _Assent Inc_, and _Green Shield Canada_!
 - 🔭 I've also worked as a **Research Software Developer** for the _Laboratory for Advanced Biomembrane Research_ at the University of Windsor
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
-- 📫 How to reach me: [jeremiejbornais@gmail.com](mailto:jeremiejbornais@gmail.com)
+- 📫 How to reach me: [jeremiedevelops@gmail.com](mailto:jeremiedevelops@gmail.com)
 - 🏫 I've served as the President of the University of Windsor's [Computer Science Society](https://css.uwindsor.ca)
 - ⚡ Fun fact: I co-founded two hackathons! [WinHacks](https://winhacks.ca/) and [BorderHacks](https://www.borderhacks.com/)
 - ✉️ Check out [my blog](https://blog.bornais.ca)!  
