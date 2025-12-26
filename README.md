@@ -2,10 +2,6 @@
 
 ### I like building things that improve my life
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jere-mie&label=Profile views&color=0e75b6&style=flat" alt="jere-mie" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jere-mie" alt="jere-mie" /></a> </p>
-
 - 📫 How to reach me **jeremiedevelops@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://jeremie.bornais.ca](https://jeremie.bornais.ca)**
