@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **jeremiedevelops@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://jeremie.bornais.ca](https://jeremie.bornais.ca)**
-
 - 📝 I regularly write articles on **[https://blog.bornais.ca](https://blog.bornais.ca)**
 
 - 📄 Know about my experiences **[https://resume.jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf](https://resume.jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf)**
