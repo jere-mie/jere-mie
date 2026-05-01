@@ -1,27 +1,35 @@
-# Hi 👋, I'm Jeremie
+# Hi, I'm Jeremie! 👋
 
-### I like building things that improve my life
+### Software Developer | Open-Source Advocate | Systems Tinkerer
 
-- 📫 How to reach me **jeremiedevelops@gmail.com**
+I build software that is fast, accessible, and respectful of the user.
 
-- 📝 I regularly write articles on **[https://blog.bornais.ca](https://blog.bornais.ca)**
+Currently, I'm a Software Developer at **Assent**, where I work with **.NET Core** and **Angular** to build complex, scalable enterprise solutions.
 
-- 📄 Know about my experiences **[https://resume.jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf](https://resume.jeremie.bornais.ca/Bornais_Jeremie_Resume.pdf)**
+## 🛠 The ZXCV Initiative ([zxcv.fyi](https://zxcv.fyi))
+I'm the creator of **zxcv**, a growing collection of free, open-source projects. The mission is simple: provide high-quality tools (for file conversion, SEO, text cleanup, and more) without the ads, trackers, or data-harvesting typical of modern utility sites. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/jere-mie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jere-mie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeremie-bornais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremie-bornais" height="30" width="40" /></a>
-</p>
+## 🚀 Projects & Experiments
+- **[masm2wasm](https://github.com/jere-mie/masm2wasm):** A Go-powered bridge bringing MASM32 to the web via WebAssembly.
+- **[Easy-MASM](https://github.com/jere-mie/easy-masm):** A Dockerized x86 MASM toolchain widely used in academic settings.
+- **[Unslop](https://github.com/jere-mie/unslop):** A CLI utility to strip AI-generated artifacts from text.
+- **[Wasmtex](https://github.com/jere-mie/wasmtex):** A privacy-focused, browser-side LaTeX and Typst editor.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+## 💻 Tech Stack
+| Context | Technologies |
+| :--- | :--- |
+| **Professional** | `.NET Core (C#)`, `TypeScript`, `Angular`, `SQL` |
+| **Personal** | `Go`, `React`, `Python`, `Zig`, `WASM` |
+| **Infrastructure** | `Docker`, `GitHub Actions`, `Linux` |
 
-![](https://github-readme-stats.vercel.app/api?username=jere-mie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jere-mie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jere-mie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Stats & Activity
 
-![](https://github-contributor-stats.vercel.app/api?username=jere-mie&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=jere-mie&icon=0&color=0)](https://visitcount.itsvg.in)
+![My Stats](./profile/stats.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📬 Connect with Me
+- **Portfolio:** [jeremie.bornais.ca](https://jeremie.bornais.ca/)
+- **Writing:** [blog.bornais.ca](https://blog.bornais.ca/)
+- **LinkedIn:** [in/jeremie-bornais](https://www.linkedin.com/in/jeremie-bornais/)
+- **Email** jeremiedevelops@gmail.com
+
+*"Building tools that empower people, not exploit them."*
